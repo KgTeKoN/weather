@@ -26,7 +26,7 @@ const printWeather = (res, icon) => {
         ${icon} ${res.weather[0].description}
         temperature: ${res.main.temp} feel like ${res.main.feels_like}
         humidity: ${res.main.humidity}%
-        speed wind: ${res.wind.speed}
+        wind speed: ${res.wind.speed}
         `
     );
 }
