@@ -1,6 +1,6 @@
 {
   "name": "weather-cli-petruniak",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "CLI for getting weather",
   "main": "weather.js",
   "bin": {

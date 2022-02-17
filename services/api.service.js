@@ -33,7 +33,7 @@ const getWeather = async (city) => {
         params: {
             q: city,
             appid: token,
-            lang: 'ru',
+            lang: 'ua',
             units: 'metric'
         }
     })
